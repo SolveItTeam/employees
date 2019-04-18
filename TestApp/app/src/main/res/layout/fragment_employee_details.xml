@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        tools:text="Ivan Ivanov" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvBirthday"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        tools:text="Birthday: 18.12.2013" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvAge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        tools:text="Age: 18" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvSpecialities"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        tools:text="Specialities: Ttt, Ttt, Bbb" />
+
+</LinearLayout>

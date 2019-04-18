@@ -97,7 +97,7 @@
     {
       "f_name" 	: "Владимир",
       "l_name" 	: "Миронов",
-      "birthday"	: "03-08-1972",
+      "birthday" : "03-08-1972",
       "avatr_url" : "http://img2.russia.ru/upimg/author/233/image.jpg",
       "specialty" : [{
         "specialty_id" : 102,

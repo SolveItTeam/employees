@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="show_specialities">Показать Специальности</string>
+    <string name="show_all_employees">Показать всех сотрудников</string>
+
+
+    <string name="first_name_s">Имя: %s</string>
+    <string name="second_name_s">Фамилия: %s</string>
+    <string name="birthday_s">День Рождения: %s г.</string>
+    <string name="age_d">Возраст: %d</string>
+    <string name="specialities_s">Специальности: %s</string>
+
+    <string name="error_connection_troubles">Проблемы с соединением</string>
+    <string name="error_server">Проблемы с загрузкой данных</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
+</resources>
